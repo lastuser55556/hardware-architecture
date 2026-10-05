@@ -26,3 +26,8 @@ F2 = ¬(A ∧ (B → C)) ∨ D
 Схемы выполнены в формате draw.io:
 
 [logic-formulas.drawio](logic-formulas.drawio)
+
+## Скриншоты схем
+
+- [Схема первой формулы](screenshots/01-formula-f1.png)
+- [Схема второй формулы](screenshots/02-formula-f2.png)
